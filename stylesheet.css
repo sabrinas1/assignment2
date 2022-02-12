@@ -9,13 +9,10 @@ p {font-size: 20px; font-family: sans-serif; background-color: #EDE0D4;
 
 body {font-family: sans-serif}
 
-#top {background-color: #EDE0D4; height: 250px; width: 100%; opacity: 0.1;
-    text-align: center; font-size: 40px; padding-top: 10px; 
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
-    position: relative; color: #414833; margin: 0;}
-
-#back {background-image: url(Pics/tim-mossholder-07uiqD9LS6U-unsplash.jpg); 
-    width: 100%; height: 100}
+#top {background-image: url(Pics/tim-mossholder-07uiqD9LS6U-unsplash.jpg); 
+    height: 250px; width: 100%; text-align: center; font-size: 40px; 
+    padding-top: 10px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, 
+    sans-serif; position: relative; color: #EDE0D4; margin: 0;}
 
 #menu {text-align: center; font-size: 30px; position: absolute; width: 100%;
     bottom: 0;}
