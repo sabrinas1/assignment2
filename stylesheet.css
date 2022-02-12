@@ -1,7 +1,7 @@
 /*stylesheet for business website pages*/
 
 body.html {font-size: 20px, font-family: sans-serif;}
-#top {background-color: #656D4A; height: 300px; width: 100%; 
+#top {background-color: #656D4A; height: 200px; width: 100%; 
     text-align: center; font-size: 40px; padding-top: 10px; 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
     position: relative; color: #EDE0D4; margin: 0;}
@@ -9,6 +9,7 @@ body.html {font-size: 20px, font-family: sans-serif;}
     bottom: 0;}
 .one, .two, .three {display: inline-block; width: 33%; margin: 0;}
 .left-col, .right-col {display: inline-block; width: 49%; margin: 0;}
-#note {font: size 18px; font-weight: bold;}
+#note {font: size 18px; font-weight: bold;; background-color: #656D4A;
+    border-radius: 4px;}
 
 /*responsive */
