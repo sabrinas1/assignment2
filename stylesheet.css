@@ -4,7 +4,7 @@ body.html {font-size: 18px}
 #top {background-color: #656D4A; background-size: cover; height: 300px; 
     width: 100%; text-align: center; font-size: 40px; padding-top: 10px; 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
-    position: relative;}
+    position: relative; color: #EDE0D4;}
 #menu {text-align: center; font-size: 20px; position: absolute; width: 100%;}
 .one, .two, .three {display: inline-block; width: 100%; margin: 0;}
 .left-col, .right-col {display: inline-block; width: 49%; margin: 0;}
