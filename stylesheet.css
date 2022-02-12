@@ -1,13 +1,18 @@
 /*stylesheet for business website pages*/
 
 h2 {font-size: 20px; font-family: sans-serif;}
+
 h3 {font-size: 18px; font-family: sans-serif;}
+
+p {font-size: 20px; font-family: sans-serif; background-color: #EDE0D4; 
+    font-weight: bold;}
+
 body {font-family: sans-serif}
 
-#top {background-color: #656D4A; height: 250px; width: 100%; 
+#top {background-color: #EDE0D4; height: 250px; width: 100%; opacity: 0.1;
     text-align: center; font-size: 40px; padding-top: 10px; 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
-    position: relative; color: #EDE0D4; margin: 0;}
+    position: relative; color: #414833; margin: 0;}
 
 #menu {text-align: center; font-size: 30px; position: absolute; width: 100%;
     bottom: 0;}
