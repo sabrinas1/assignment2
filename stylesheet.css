@@ -12,7 +12,8 @@ body {font-family: sans-serif}
 #menu {text-align: center; font-size: 30px; position: absolute; width: 100%;
     bottom: 0;}
 
-.one, .two, .three, .four {display: inline-block; width: 20%; margin: 0;}
+.one, .two, .three, .four {display: inline-block; width: 20%; margin: 0; 
+    vertical-align: top;}
 
 .left-col, .right-col {display: inline-block; width: 49%; margin: 0 auto;}
 
