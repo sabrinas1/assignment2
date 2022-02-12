@@ -7,4 +7,4 @@ body.html {font-size: 18px}
     position: relative;}
 #menu {text-align: center; font-size: 20px; position: absolute; 
     padding-bottom: 10px;}
-.one, .two, .three {width: 30%; margin: 0;}
+.one, .two, .three {display: inline-block; width: 30%; margin: 0;}
