@@ -2,6 +2,5 @@
 
 body.html {font-size: 18px}
 th {font-size: 20px; width: 33%; text-align: center;}
-#top {background-image: url(Pics/steve-adams-bY_q4VodUc0-unsplash.jpg); 
-    background-size: cover; height: 200px; width: 100%; text-align: center; 
-    font-size: 40px}
+#top {background-color: #656D4A; background-size: cover; height: 200px; 
+    width: 100%; text-align: center; font-size: 40px}
